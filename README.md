@@ -1048,3 +1048,23 @@ It's important to note that while IoT brings numerous benefits, addressing secur
 | **Scale**                    | Huge global scale with billions of users.     | Scaling involves billions of connected devices.   |
 | **Human Interaction**         | Primarily human-driven interactions.         | Mix of automated and human interactions.          |
 
+
+
+## Comparison between IoT networks and Wireless Sensor Networks (WSNs)
+
+| Feature                   | IoT Network                                              | Wireless Sensor Network (WSN)                                |
+|---------------------------|----------------------------------------------------------|------------------------------------------------------------|
+| **Scope**                 | Many different uses, like smart cities or health devices. | Mostly for things like monitoring the environment or farms.  |
+| **Devices**               | Includes many kinds, like smart lights, cameras, and more. | Mainly uses small sensors to collect information.            |
+| **Communication**         | Talks in different ways, like using Wi-Fi or the internet. | Uses simple ways to talk, like short-range radio signals.    |
+| **Battery Life**          | Some devices may need more power and use batteries a lot. | Designed to use less power so batteries last a long time.    |
+| **Data Size**             | Handles big and small amounts of information as needed.   | Usually deals with small bits of data from the sensors.     |
+| **Speed**                 | Can be fast or slow depending on what needs to be done.   | Usually not super fast; it focuses more on saving power.    |
+| **Uses**                  | Used in many different ways for various applications.     | Commonly used to keep an eye on things in specific areas.   |
+| **Setup**                 | Can be set up for big or small tasks, depending on needs. | Often set up for specific tasks in a smaller area.          |
+| **Security**              | Needs strong security because it does many different tasks. | Still needs security but might not be as complex as in IoT. |
+| **Flexibility**           | Can be used for lots of different jobs and adapted easily. | More focused on specific jobs; not as adaptable as IoT.     |
+| **Processing**            | Can do a lot of thinking either in the device or in the cloud. | Usually does simpler thinking, especially at the sensor.   |
+| **Cost**                  | Can cost more or less depending on what needs to be done.   | Often designed to be cost-effective for specific uses.     |
+| **Distance**              | Can talk over short or long distances as needed.           | Usually talks over shorter distances between sensors.      |
+| **Energy Use**            | Some devices need more energy, may use different methods.  | Focuses on using less energy to keep things running longer. |
