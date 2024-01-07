@@ -974,3 +974,8 @@ Many enthusiasts and hobbyists use Raspberry Pi to build projects such as home a
 ## Bluegiga APX4 protocol
 
 The Bluegiga APX4 protocol is a compact system-on-module supporting both Wi-Fi (802.11 b/g/n) and Bluetooth 4.0 (BLE). It features a 450MHz ARM9 processor from Freescale's i.MX28 family, runs on an embedded Linux OS (Yocto ProjectTM), and is designed for small form factor, low power applications. The module integrates processing, memory, and wireless communication components, making it suitable for various applications with space and power constraints.
+
+
+## Real-Time Operating System (RTOS)
+
+In a Real-Time Operating System (RTOS), a scheduler is like a traffic manager for tasks. It makes sure that important tasks get done first and on time. It helps decide which task should run next, manages resources efficiently, and ensures everything happens when it's supposed to. This is crucial for applications where meeting specific deadlines and timing is really important, like in control systems or safety-critical situations.
