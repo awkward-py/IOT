@@ -1,4 +1,4 @@
-# IOT
+# IoT Exam Guide
 
 ## How does the IOT affect our every day life?
 
