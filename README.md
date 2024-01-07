@@ -1,6 +1,6 @@
 # IOT
 
-## how does the IOT affect our every day life?
+## How does the IOT affect our every day life?
 
 The Internet of Things (IoT) has a significant impact on our everyday lives, making things smarter, more connected, and convenient. In simple terms, IoT refers to the network of devices that can communicate with each other through the internet. These devices can include everyday objects like thermostats, light bulbs, cars, and even wearable gadgets like smartwatches.
 
