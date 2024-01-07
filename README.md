@@ -969,3 +969,8 @@ A Raspberry Pi is a small, credit card-sized computer that was created to make l
 What makes the Raspberry Pi unique is its affordability and versatility. It's designed to be an open platform, meaning people can use it for a variety of purposes. Whether you want to learn programming, build your own projects, or create simple computer applications, the Raspberry Pi provides a user-friendly environment for experimentation and exploration.
 
 Many enthusiasts and hobbyists use Raspberry Pi to build projects such as home automation systems, media centers, retro gaming consoles, and even robots. It's a great tool for understanding the basics of computing and coding in a hands-on and engaging way.
+
+
+## Bluegiga APX4 protocol
+
+The Bluegiga APX4 protocol is a compact system-on-module supporting both Wi-Fi (802.11 b/g/n) and Bluetooth 4.0 (BLE). It features a 450MHz ARM9 processor from Freescale's i.MX28 family, runs on an embedded Linux OS (Yocto ProjectTM), and is designed for small form factor, low power applications. The module integrates processing, memory, and wireless communication components, making it suitable for various applications with space and power constraints.
