@@ -809,3 +809,39 @@ Addressing these challenges requires collaboration among stakeholders, including
     - Use radio waves to identify and track objects. Commonly used in supply chain management, inventory tracking, and access control.
 
 The choice of sensor depends on the specific requirements of the IoT application, such as the type of data needed, environmental conditions, and power constraints. Integrating a combination of sensors allows for comprehensive data collection and analysis in diverse IoT scenarios.
+
+ ## Blink an LED using Arduino
+
+```cpp
+// Blinking LED Example for Arduino
+
+// Define the pin number for the LED
+const int ledPin = 13;
+
+void setup() {
+  // Set the LED pin as an OUTPUT
+  pinMode(ledPin, OUTPUT);
+}
+
+void loop() {
+  // Turn the LED on
+  digitalWrite(ledPin, HIGH);
+  
+  // Wait for a second
+  delay(1000);
+  
+  // Turn the LED off
+  digitalWrite(ledPin, LOW);
+  
+  // Wait for a second
+  delay(1000);
+}
+```
+
+Explanation of the code:
+
+- `const int ledPin = 13;`: This line defines a constant variable `ledPin` and assigns the value 13 to it, indicating that the LED is connected to digital pin 13.
+
+- `void setup() { pinMode(ledPin, OUTPUT); }`: In the `setup()` function, the pinMode function is used to set the `ledPin` as an OUTPUT, indicating that it will be used to output electrical signals to the LED.
+
+- `void loop() { digitalWrite(ledPin, HIGH); delay(1000); digitalWrite(ledPin, LOW); delay(1000); }`: The `loop()` function contains the main code that repeatedly turns the LED on and off. The `digitalWrite()` function is used to set the voltage on the `ledPin`, and the `delay()` function introduces a pause to create the blinking effect.
