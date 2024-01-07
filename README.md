@@ -1026,3 +1026,25 @@ In a Real-Time Operating System (RTOS), a scheduler is like a traffic manager fo
 10. **Ethical Considerations:** Issues related to data ownership, consent, and ethical use may arise.
 
 It's important to note that while IoT brings numerous benefits, addressing security and privacy concerns is crucial to ensure responsible and secure deployment. Additionally, ongoing efforts are being made to address some of the disadvantages through standardization and improved technologies.
+
+
+## Internet vs. IOT
+
+| Aspect                       | Internet                                       | Internet of Things (IoT)                            |
+|------------------------------|------------------------------------------------|----------------------------------------------------|
+| **Definition**               | Global network of connected computers.         | Network of interconnected physical devices.        |
+| **Scope**                    | Human-to-human communication.                  | Device-to-device, human-to-device communication.   |
+| **Communication Purpose**    | Information sharing and collaboration.         | Data exchange, automation, and monitoring.         |
+| **Devices**                  | Mainly computers, servers, and smartphones.    | Diverse physical devices, sensors, and objects.    |
+| **Interactions**             | Primarily human-initiated interactions.       | Automated interactions, machine-to-machine.       |
+| **Communication Protocols**  | TCP/IP, HTTP, FTP, etc.                        | MQTT, CoAP, HTTP, Zigbee, Bluetooth, etc.         |
+| **Data Volume**              | Large data volumes, often text-based.          | Varied data types including sensor data.          |
+| **Purpose**                  | Information sharing, entertainment, commerce. | Automation, monitoring, efficiency improvements.  |
+| **Accessibility**            | Accessible to humans through browsers, apps.  | Accessible to machines through APIs and protocols.|
+| **Security**                 | Security concerns mainly related to data.     | Security concerns include physical devices.      |
+| **Latency Requirements**     | Generally not time-sensitive.                 | Often requires real-time or near real-time responses.|
+| **Ownership of Data**        | Users have control over personal data.        | Ownership and control of data may vary.           |
+| **Standardization**          | Standard protocols ensure interoperability.   | Diverse protocols, ongoing efforts for standardization.|
+| **Scale**                    | Huge global scale with billions of users.     | Scaling involves billions of connected devices.   |
+| **Human Interaction**         | Primarily human-driven interactions.         | Mix of automated and human interactions.          |
+
