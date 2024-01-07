@@ -1,5 +1,6 @@
 # IOT
 
+## how does the IOT affect our every day life?
 
 1. **Smart Homes:**
    The advent of IoT has transformed our living spaces into smart homes, where everyday devices are interconnected and accessible through our smartphones or other devices. With IoT-enabled smart home devices, we gain the ability to remotely control various aspects of our homes. For instance, smart thermostats allow us to adjust heating or cooling settings from anywhere, smart lights can be controlled with a simple tap on our smartphones, and security cameras provide real-time monitoring, contributing to both convenience and enhanced home security.
