@@ -585,3 +585,56 @@ The Internet of Things (IoT) works by connecting physical devices, sensors, and 
     - To ensure the integrity and security of IoT systems, measures such as encryption, authentication, and access controls are implemented. Privacy considerations are also important, especially when dealing with personal or sensitive data.
 
 In summary, the IoT ecosystem involves the connection, communication, and intelligent interaction of physical devices through the internet. It leverages data to make informed decisions, automate processes, and enhance efficiency across various domains, including smart homes, healthcare, industrial automation, and more.
+
+
+## Various data types in Python
+
+1. **Numeric Types:**
+   - **int:** Integer data type represents whole numbers without any decimal points.
+   - **float:** Floating-point data type represents numbers with decimal points or in exponential form.
+   - **complex:** Complex data type represents numbers in the form of a real part and an imaginary part.
+
+   ```python
+   x = 5       # int
+   y = 3.14    # float
+   z = 2 + 3j  # complex
+   ```
+
+2. **Sequence Types:**
+   - **str:** String data type represents sequences of characters (text).
+   - **list:** List data type represents ordered, mutable sequences.
+   - **tuple:** Tuple data type represents ordered, immutable sequences.
+
+   ```python
+   text = "Hello, Python!"    # str
+   my_list = [1, 2, 3]         # list
+   my_tuple = (4, 5, 6)        # tuple
+   ```
+
+3. **Set Types:**
+   - **set:** Set data type represents an unordered collection of unique elements.
+
+   ```python
+   my_set = {1, 2, 3, 1, 2}    # set
+   ```
+
+4. **Mapping Type:**
+   - **dict:** Dictionary data type represents a collection of key-value pairs.
+
+   ```python
+   my_dict = {'name': 'John', 'age': 30, 'city': 'New York'}    # dict
+   ```
+
+5. **Boolean Type:**
+   - **bool:** Boolean data type represents either `True` or `False` values, typically used for logical operations.
+
+   ```python
+   is_true = True    # bool
+   ```
+
+6. **None Type:**
+   - **None:** NoneType represents the absence of a value or a null value.
+
+   ```python
+   no_value = None    # NoneType
+   ```
