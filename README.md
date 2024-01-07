@@ -201,6 +201,12 @@ In essence, Python's simplicity, readability, community support, and versatility
 
 8. **Application Services:**
    - Application services encompass the software applications and interfaces that interact with end-users or other systems. Examples include dashboards, mobile apps, or web applications that provide a user-friendly interface for monitoring and controlling IoT devices.
+  
+9. **Control and Decision Making:**
+   - This block involves decision-making based on the processed data. Automated control mechanisms or alerts may be triggered based on predefined rules or machine learning models, influencing the behavior of connected devices.
+
+10. **Security and Authentication:**
+    - Security is a critical block that includes measures for securing data, devices, and communications. This involves encryption, secure authentication, and access control to protect the integrity and privacy of IoT systems.
 
 
 ## Common IoT applications:
@@ -236,8 +242,3 @@ In essence, Python's simplicity, readability, community support, and versatility
     - Supply chain visibility in IoT involves the use of sensors and tracking devices to monitor the movement and condition of goods during transportation. This real-time visibility improves logistics, reduces delays, and enhances overall supply chain efficiency.
 
 These definitions illustrate how IoT applications span various industries, contributing to improved efficiency, sustainability, and quality of life in different domains.
-9. **Control and Decision Making:**
-   - This block involves decision-making based on the processed data. Automated control mechanisms or alerts may be triggered based on predefined rules or machine learning models, influencing the behavior of connected devices.
-
-10. **Security and Authentication:**
-    - Security is a critical block that includes measures for securing data, devices, and communications. This involves encryption, secure authentication, and access control to protect the integrity and privacy of IoT systems.
