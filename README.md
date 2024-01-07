@@ -37,7 +37,7 @@ One way IoT affects our daily routines is through smart home devices. Imagine be
    IoT has transformed supply chain management by providing real-time visibility into the movement of goods and optimizing logistics. Connected devices and sensors track the location of products, monitor inventory levels, and provide insights into the condition of goods during transportation. This enhanced visibility allows businesses to streamline operations, reduce inefficiencies, and respond more effectively to changes in demand. The integration of IoT in supply chain management contributes to improved efficiency and customer satisfaction.
 
 
-## *dDefine IOT with its characteristics
+## Define IOT with its characteristics
 
 The Internet of Things (IoT) refers to a network of interconnected physical devices, vehicles, appliances, and other objects embedded with sensors, actuators, and software that enables them to collect and exchange data. This interconnected network allows these devices to communicate with each other and with central systems, facilitating intelligent decision-making and automation.
 
